@@ -11,6 +11,7 @@ Once the analysis was complete, the cleaned and modified dataset was stored in a
 ## Results
 
 Pokemon stats tend to follow a normal distribution. For example, consider the histograms of base attack and base speed. 
+
 ![bar_base_attack](Resources/bar_base_attack.png)
 ![bar_base_speed](Resources/bar_base_speed.png)
 
@@ -38,10 +39,14 @@ The above observations are from the following tables:
 
 Lastly, pokemon were ranked for different stats. As some examples, here are the top ten attack pokemon and top ten pokemon overall.
 
-![top_attack](top_attack.png)
-![top_base](top_base.png)
+![top_attack](Resources/top_attack.png)
+![top_base](Resources/top_base.png)
 
 ## Conclusion
+
+The Pokemon game developers have put a lot of thought and time to create such a diverse group of pokemon. The normal distributions of the various stats suggest that the game developers have tried to make the game balanced. Moreover, each stat is correlated with each other, except for speed and defense. 
+
+One of the most interesting findings was that the pokemon with the highest base attack was Heracross, a non-legendary. One would think such an important stat would have a legendary as the highest. It appears that non-legendaries, despite having weaker stats on average, can give legendaries a run for their money in battle. 
 
 
 
